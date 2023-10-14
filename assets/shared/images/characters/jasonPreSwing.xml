@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jasonPreSwing.png">
+	
+	
+	<SubTexture name="swing  instance 10000" x="8" y="8" width="567" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10001" x="8" y="8" width="567" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10002" x="583" y="8" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10003" x="583" y="8" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10004" x="1157" y="8" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10005" x="8" y="474" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10006" x="582" y="474" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10007" x="582" y="474" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10008" x="1157" y="474" width="566" height="458" frameX="-4" frameY="0" frameWidth="570" frameHeight="458" />
+	<SubTexture name="swing  instance 10009" x="8" y="940" width="570" height="458" />
+</TextureAtlas>

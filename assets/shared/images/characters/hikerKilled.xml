@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hikerKilled.png">
+<SubTexture name="hikerKilled0000" x="1335" y="817" width="279" height="312" frameX="-292" frameY="0" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0001" x="1846" y="763" width="376" height="355" frameX="-290" frameY="-38" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0002" x="0" y="1329" width="715" height="388" frameX="0" frameY="-47" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0003" x="1335" y="409" width="511" height="408" frameX="-245" frameY="-55" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0004" x="1335" y="0" width="511" height="409" frameX="-245" frameY="-55" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0005" x="0" y="476" width="543" height="428" frameX="-234" frameY="-61" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0006" x="543" y="476" width="543" height="428" frameX="-234" frameY="-61" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0007" x="0" y="904" width="577" height="425" frameX="-230" frameY="-68" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0008" x="577" y="904" width="577" height="425" frameX="-230" frameY="-68" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0009" x="0" y="0" width="667" height="476" frameX="-224" frameY="-82" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0010" x="667" y="0" width="667" height="476" frameX="-224" frameY="-82" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0011" x="715" y="1329" width="612" height="383" frameX="-319" frameY="-175" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0012" x="715" y="1329" width="612" height="383" frameX="-319" frameY="-175" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0013" x="1846" y="382" width="518" height="380" frameX="-413" frameY="-178" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0014" x="1846" y="382" width="518" height="380" frameX="-413" frameY="-178" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0015" x="1846" y="0" width="525" height="382" frameX="-406" frameY="-176" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0016" x="1846" y="0" width="525" height="382" frameX="-406" frameY="-176" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0017" x="1846" y="1118" width="514" height="323" frameX="-417" frameY="-235" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0018" x="1846" y="1441" width="403" height="247" frameX="-528" frameY="-311" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0019" x="1327" y="1329" width="407" height="236" frameX="-524" frameY="-322" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0020" x="0" y="1717" width="407" height="236" frameX="-524" frameY="-322" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0021" x="407" y="1717" width="379" height="200" frameX="-552" frameY="-358" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0022" x="786" y="1717" width="379" height="200" frameX="-552" frameY="-358" frameWidth="931" frameHeight="558" />
+<SubTexture name="hikerKilled0023" x="786" y="1717" width="379" height="200" frameX="-552" frameY="-358" frameWidth="931" frameHeight="558" />
+</TextureAtlas>

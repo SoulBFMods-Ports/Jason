@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HikerBACK.png">
+<SubTexture name="downscream0000" x="1337" y="600" width="192" height="299" frameX="0" frameY="-12" frameWidth="192" frameHeight="311" />
+<SubTexture name="downscream0001" x="1337" y="899" width="191" height="299" frameX="-1" frameY="-12" frameWidth="192" frameHeight="311" />
+<SubTexture name="downscream0002" x="1337" y="0" width="192" height="300" frameX="0" frameY="-11" frameWidth="192" frameHeight="311" />
+<SubTexture name="downscream0003" x="1337" y="300" width="191" height="300" frameX="-1" frameY="-11" frameWidth="192" frameHeight="311" />
+<SubTexture name="downscream0004" x="470" y="341" width="192" height="311" frameX="0" frameY="0" frameWidth="192" frameHeight="311" />
+<SubTexture name="idleback0000" x="198" y="981" width="188" height="304" frameX="0" frameY="-2" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0001" x="386" y="981" width="187" height="304" frameX="-1" frameY="-2" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0002" x="949" y="981" width="188" height="304" frameX="0" frameY="-3" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0003" x="1137" y="981" width="187" height="304" frameX="-1" frameY="-3" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0004" x="573" y="981" width="188" height="304" frameX="0" frameY="-2" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0005" x="761" y="981" width="188" height="304" frameX="0" frameY="-2" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0006" x="1149" y="306" width="187" height="305" frameX="-1" frameY="-1" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0007" x="1149" y="611" width="187" height="305" frameX="-1" frameY="-1" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0008" x="826" y="675" width="188" height="306" frameX="0" frameY="-1" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0009" x="1149" y="0" width="188" height="306" frameX="0" frameY="-1" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0010" x="924" y="308" width="188" height="306" frameX="0" frameY="0" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0011" x="0" y="675" width="188" height="306" frameX="0" frameY="0" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0012" x="188" y="675" width="188" height="306" frameX="0" frameY="0" frameWidth="188" frameHeight="307" />
+<SubTexture name="idleback0013" x="188" y="675" width="188" height="306" frameX="0" frameY="0" frameWidth="188" frameHeight="307" />
+<SubTexture name="leftscream0000" x="683" y="0" width="240" height="316" frameX="-1" frameY="-5" frameWidth="248" frameHeight="321" />
+<SubTexture name="leftscream0001" x="683" y="0" width="240" height="316" frameX="-1" frameY="-5" frameWidth="248" frameHeight="321" />
+<SubTexture name="leftscream0002" x="227" y="341" width="242" height="316" frameX="0" frameY="-5" frameWidth="248" frameHeight="321" />
+<SubTexture name="leftscream0003" x="227" y="341" width="242" height="316" frameX="0" frameY="-5" frameWidth="248" frameHeight="321" />
+<SubTexture name="miss down pose0000" x="0" y="981" width="198" height="306" frameX="0" frameY="-1" frameWidth="198" frameHeight="307" />
+<SubTexture name="miss left pose0000" x="683" y="316" width="240" height="316" frameX="-5" frameY="-1" frameWidth="245" frameHeight="316" />
+<SubTexture name="miss right pose0000" x="376" y="675" width="224" height="306" frameX="0" frameY="0" frameWidth="233" frameHeight="306" />
+<SubTexture name="miss up pose0000" x="0" y="341" width="227" height="333" frameX="0" frameY="-8" frameWidth="227" frameHeight="342" />
+<SubTexture name="rightscream0000" x="600" y="675" width="226" height="306" frameX="-4" frameY="-6" frameWidth="230" frameHeight="312" />
+<SubTexture name="rightscream0001" x="600" y="675" width="226" height="306" frameX="-4" frameY="-6" frameWidth="230" frameHeight="312" />
+<SubTexture name="rightscream0002" x="924" y="0" width="225" height="308" frameX="-4" frameY="-4" frameWidth="230" frameHeight="312" />
+<SubTexture name="rightscream0003" x="924" y="0" width="225" height="308" frameX="-4" frameY="-4" frameWidth="230" frameHeight="312" />
+<SubTexture name="upscream0000" x="0" y="0" width="227" height="341" frameX="0" frameY="0" frameWidth="231" frameHeight="342" />
+<SubTexture name="upscream0001" x="227" y="0" width="227" height="341" frameX="0" frameY="0" frameWidth="231" frameHeight="342" />
+<SubTexture name="upscream0002" x="455" y="0" width="228" height="337" frameX="-1" frameY="-4" frameWidth="231" frameHeight="342" />
+<SubTexture name="upscream0003" x="455" y="0" width="228" height="337" frameX="-1" frameY="-4" frameWidth="231" frameHeight="342" />
+</TextureAtlas>

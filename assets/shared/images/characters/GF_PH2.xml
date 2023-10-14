@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF_PH2.png">
+	
+	
+	<SubTexture name="dodge0000" x="50" y="50" width="183" height="237" />
+	<SubTexture name="dodge0001" x="50" y="50" width="183" height="237" />
+	<SubTexture name="dodge0002" x="283" y="50" width="183" height="237" />
+	<SubTexture name="dodge0003" x="283" y="50" width="183" height="237" />
+	<SubTexture name="dodge0004" x="516" y="50" width="183" height="237" />
+	<SubTexture name="dodge0005" x="516" y="50" width="183" height="237" />
+	<SubTexture name="dodge0006" x="749" y="50" width="183" height="237" />
+	<SubTexture name="dodge0007" x="749" y="50" width="183" height="237" />
+	<SubTexture name="dodge0008" x="982" y="50" width="183" height="237" />
+	<SubTexture name="dodge0009" x="982" y="50" width="183" height="237" />
+	<SubTexture name="dodge0010" x="1215" y="50" width="183" height="237" />
+	<SubTexture name="dodge0011" x="1215" y="50" width="183" height="237" />
+	<SubTexture name="dodge0012" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0013" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0014" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0015" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0016" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0017" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="dodge0018" x="1448" y="50" width="183" height="237" />
+	<SubTexture name="gf dance0000" x="1681" y="50" width="206" height="373" />
+	<SubTexture name="gf dance0001" x="1681" y="50" width="206" height="373" />
+	<SubTexture name="gf dance0002" x="50" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0003" x="50" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0004" x="306" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0005" x="306" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0006" x="563" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0007" x="563" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0008" x="819" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0009" x="819" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0010" x="1076" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0011" x="1076" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0012" x="1332" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0013" x="1332" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0014" x="1589" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0015" x="1589" y="473" width="206" height="373" />
+	<SubTexture name="gf dance0016" x="50" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0017" x="50" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0018" x="306" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0019" x="306" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0020" x="563" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0021" x="563" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0022" x="819" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0023" x="819" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0024" x="1076" y="896" width="206" height="373" />
+	<SubTexture name="gf dance0025" x="1076" y="896" width="206" height="373" />
+</TextureAtlas>

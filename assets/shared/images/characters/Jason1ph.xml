@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jason1ph.png">
+<SubTexture name="downalt instance 10000" x="1934" y="1025" width="387" height="335" frameX="-6" frameY="-12" frameWidth="392" frameHeight="347" />
+<SubTexture name="downalt instance 10001" x="1934" y="1025" width="387" height="335" frameX="-6" frameY="-12" frameWidth="392" frameHeight="347" />
+<SubTexture name="downalt instance 10002" x="1934" y="0" width="387" height="344" frameX="-6" frameY="-3" frameWidth="392" frameHeight="347" />
+<SubTexture name="downalt instance 10003" x="1934" y="0" width="387" height="344" frameX="-6" frameY="-3" frameWidth="392" frameHeight="347" />
+<SubTexture name="downalt instance 10004" x="1166" y="1544" width="387" height="346" frameX="-6" frameY="-1" frameWidth="392" frameHeight="347" />
+<SubTexture name="idlealt instance 10000" x="1547" y="752" width="386" height="375" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10001" x="1547" y="752" width="386" height="375" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10002" x="1547" y="1127" width="386" height="375" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10003" x="0" y="1166" width="386" height="378" frameX="-6" frameY="-30" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10004" x="386" y="1166" width="386" height="378" frameX="-6" frameY="-30" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10005" x="386" y="1166" width="386" height="378" frameX="-6" frameY="-30" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10006" x="1161" y="0" width="386" height="380" frameX="-6" frameY="-28" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10007" x="1161" y="0" width="386" height="380" frameX="-6" frameY="-28" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10008" x="0" y="785" width="389" height="380" frameX="-3" frameY="-28" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10009" x="389" y="785" width="392" height="380" frameX="0" frameY="-28" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10010" x="0" y="404" width="386" height="381" frameX="-6" frameY="-27" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10011" x="386" y="404" width="386" height="381" frameX="-6" frameY="-27" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10012" x="773" y="404" width="386" height="381" frameX="-6" frameY="-27" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10013" x="773" y="404" width="386" height="381" frameX="-6" frameY="-27" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10014" x="781" y="785" width="386" height="379" frameX="-6" frameY="-29" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10015" x="781" y="785" width="386" height="379" frameX="-6" frameY="-29" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10016" x="1161" y="380" width="386" height="380" frameX="-6" frameY="-29" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10017" x="773" y="1166" width="386" height="377" frameX="-6" frameY="-32" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10018" x="1159" y="1166" width="386" height="377" frameX="-6" frameY="-32" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10019" x="1159" y="1166" width="386" height="377" frameX="-6" frameY="-32" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10020" x="1547" y="0" width="386" height="376" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10021" x="1547" y="0" width="386" height="376" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="idlealt instance 10022" x="1547" y="376" width="386" height="376" frameX="-6" frameY="-33" frameWidth="392" frameHeight="408" />
+<SubTexture name="leftalt instance 10000" x="773" y="1544" width="392" height="360" frameX="-31" frameY="-39" frameWidth="423" frameHeight="398" />
+<SubTexture name="leftalt instance 10001" x="773" y="1544" width="392" height="360" frameX="-31" frameY="-39" frameWidth="423" frameHeight="398" />
+<SubTexture name="leftalt instance 10002" x="387" y="1544" width="386" height="365" frameX="-36" frameY="-33" frameWidth="423" frameHeight="398" />
+<SubTexture name="leftalt instance 10003" x="387" y="1544" width="386" height="365" frameX="-36" frameY="-33" frameWidth="423" frameHeight="398" />
+<SubTexture name="leftalt instance 10004" x="0" y="1544" width="387" height="370" frameX="-36" frameY="-29" frameWidth="423" frameHeight="398" />
+<SubTexture name="rightalt instance 10000" x="1934" y="1360" width="387" height="334" frameX="-6" frameY="-20" frameWidth="392" frameHeight="354" />
+<SubTexture name="rightalt instance 10001" x="1934" y="1360" width="387" height="334" frameX="-6" frameY="-20" frameWidth="392" frameHeight="354" />
+<SubTexture name="rightalt instance 10002" x="1934" y="685" width="387" height="340" frameX="-6" frameY="-14" frameWidth="392" frameHeight="354" />
+<SubTexture name="rightalt instance 10003" x="1934" y="685" width="387" height="340" frameX="-6" frameY="-14" frameWidth="392" frameHeight="354" />
+<SubTexture name="rightalt instance 10004" x="1934" y="344" width="387" height="341" frameX="-6" frameY="-13" frameWidth="392" frameHeight="354" />
+<SubTexture name="upalt instance 10000" x="0" y="0" width="387" height="404" frameX="-13" frameY="-62" frameWidth="400" frameHeight="466" />
+<SubTexture name="upalt instance 10001" x="0" y="0" width="387" height="404" frameX="-13" frameY="-62" frameWidth="400" frameHeight="466" />
+<SubTexture name="upalt instance 10002" x="387" y="0" width="387" height="400" frameX="-13" frameY="-66" frameWidth="400" frameHeight="466" />
+<SubTexture name="upalt instance 10003" x="387" y="0" width="387" height="400" frameX="-13" frameY="-66" frameWidth="400" frameHeight="466" />
+<SubTexture name="upalt instance 10004" x="774" y="0" width="387" height="397" frameX="-13" frameY="-69" frameWidth="400" frameHeight="466" />
+</TextureAtlas>
