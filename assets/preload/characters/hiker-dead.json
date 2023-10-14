@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "death instance"
+		},
+		{
+			"offsets": [
+				81,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathloop confirm instance"
+		},
+		{
+			"offsets": [
+				37,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathloop instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hikerdead",
+	"position": [
+		40,
+		520
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

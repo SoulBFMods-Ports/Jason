@@ -3,42 +3,42 @@
 		{
 			"loop": false,
 			"offsets": [
-				457,
-				651
+				37,
+				11
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "Death instance ",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				146,
-				375
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "deathconfirm instance ",
+			"name": "DeathStart instance",
 			"indices": []
 		},
 		{
 			"loop": true,
 			"offsets": [
-				107,
-				18
+				37,
+				8
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "deathloop instance ",
+			"name": "Deathloop instance",
 			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Deathconfirm instance "
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Silenced_and_Crushed",
+	"image": "characters/F13BFmachated",
 	"position": [
-		230,
-		670
+		140,
+		470
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,9 +48,9 @@
 		209
 	],
 	"camera_position": [
-		580,
-		-640
+		180,
+		-60
 	],
 	"sing_duration": 4,
-	"scale": 4
+	"scale": 2
 }

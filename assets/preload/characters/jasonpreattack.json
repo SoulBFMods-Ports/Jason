@@ -1,34 +1,34 @@
 {
 	"animations": [
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				0,
-				0
+				267,
+				-102
 			],
-			"anim": "idle",
-			"fps": 25,
-			"name": "agentgfdance instance ",
+			"anim": "swing",
+			"fps": 24,
+			"name": "swing ",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/agentgf",
+	"image": "characters/jasonpreswing",
 	"position": [
-		180,
-		0
+		-150,
+		210
 	],
-	"healthicon": "gf",
+	"healthicon": "jason",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		65,
+		83,
+		71
 	],
 	"camera_position": [
-		-120,
-		0
+		-440,
+		-60
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NHAidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NHAdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NHAright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-299,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NHAup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-76
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NHAleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NHAJasonBlizzard",
+	"position": [
+		-80,
+		200
+	],
+	"healthicon": "ghostjason",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		215,
+		215
+	],
+	"camera_position": [
+		-320,
+		-360
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

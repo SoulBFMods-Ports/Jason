@@ -1,22 +1,33 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 25,
-			"name": "agentgfdance instance ",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "gf dance"
+		},
+		{
+			"offsets": [
+				-8,
+				-259
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/agentgf",
+	"image": "characters/GF_PH2",
 	"position": [
-		180,
-		0
+		420,
+		160
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -26,9 +37,9 @@
 		77
 	],
 	"camera_position": [
-		-120,
-		0
+		-220,
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

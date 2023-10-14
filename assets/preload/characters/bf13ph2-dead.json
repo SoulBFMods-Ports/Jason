@@ -38,7 +38,7 @@
 	"image": "characters/Silenced_and_Crushed",
 	"position": [
 		230,
-		670
+		680
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,8 +48,8 @@
 		209
 	],
 	"camera_position": [
-		580,
-		-640
+		570,
+		-650
 	],
 	"sing_duration": 4,
 	"scale": 4

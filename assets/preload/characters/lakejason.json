@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-293
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-170
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-279
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightalt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jason1ph",
+	"position": [
+		-150,
+		160
+	],
+	"healthicon": "jason_icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		83,
+		71
+	],
+	"camera_position": [
+		-200,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
