@@ -1,122 +1,122 @@
 {
-	"animations": [
-		{
-			"offsets": [
-				-88,
-				-35
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "hikerdown"
-		},
-		{
-			"offsets": [
-				-65,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "hikerleft"
-		},
-		{
-			"offsets": [
-				-89,
-				2
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "hikerup"
-		},
-		{
-			"offsets": [
-				-103,
-				-19
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "hikerright"
-		},
-		{
-			"offsets": [
-				-94,
-				-31
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "miss right"
-		},
-		{
-			"offsets": [
-				-89,
-				-32
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "miss down"
-		},
-		{
-			"offsets": [
-				-91,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "miss up"
-		},
-		{
-			"offsets": [
-				-68,
-				-23
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "miss left"
-		},
-		{
-			"offsets": [
-				-90,
-				-25
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "hikerfront"
-		}
-	],
-	"no_antialiasing": false,
-	"image": "characters/hikeralone",
-	"position": [
-		-510,
-		560
-	],
-	"healthicon": "hiker",
-	"flip_x": true,
-	"healthbar_colors": [
-		144,
-		101,
-		105
-	],
-	"camera_position": [
-		-90,
-		-360
-	],
-	"sing_duration": 4,
-	"scale": 2
+  "animations": [
+    {
+      "offsets": [
+        -88,
+        -35
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "hikerdown"
+    },
+    {
+      "offsets": [
+        -65,
+        -16
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "hikerleft"
+    },
+    {
+      "offsets": [
+        -89,
+        2
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "hikerup"
+    },
+    {
+      "offsets": [
+        -103,
+        -19
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "hikerright"
+    },
+    {
+      "offsets": [
+        -94,
+        -31
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHTmiss",
+      "indices": [],
+      "name": "miss right"
+    },
+    {
+      "offsets": [
+        -89,
+        -32
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWNmiss",
+      "indices": [],
+      "name": "miss down"
+    },
+    {
+      "offsets": [
+        -91,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUPmiss",
+      "indices": [],
+      "name": "miss up"
+    },
+    {
+      "offsets": [
+        -68,
+        -23
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFTmiss",
+      "indices": [],
+      "name": "miss left"
+    },
+    {
+      "offsets": [
+        -90,
+        -25
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "hikerfront"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/HikerALONE",
+  "position": [
+    -510,
+    560
+  ],
+  "healthicon": "hiker",
+  "flip_x": true,
+  "healthbar_colors": [
+    144,
+    101,
+    105
+  ],
+  "camera_position": [
+    -90,
+    -360
+  ],
+  "sing_duration": 4,
+  "scale": 2
 }

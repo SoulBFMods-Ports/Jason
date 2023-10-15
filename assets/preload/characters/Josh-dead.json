@@ -1,56 +1,56 @@
 {
-	"animations": [
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				41
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "josh dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-83,
-				3
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "the rock",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				41
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "therockreturns",
-			"indices": []
-		}
-	],
-	"no_antialiasing": false,
-	"image": "characters/josh",
-	"position": [
-		90,
-		460
-	],
-	"healthicon": "josh",
-	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
-	],
-	"camera_position": [
-		90,
-		-110
-	],
-	"sing_duration": 4,
-	"scale": 2
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        37,
+        41
+      ],
+      "anim": "firstDeath",
+      "fps": 24,
+      "name": "josh dies",
+      "indices": []
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -83,
+        3
+      ],
+      "anim": "deathLoop",
+      "fps": 24,
+      "name": "the rock",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -10,
+        41
+      ],
+      "anim": "deathConfirm",
+      "fps": 24,
+      "name": "therockreturns",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Josh",
+  "position": [
+    90,
+    460
+  ],
+  "healthicon": "josh",
+  "flip_x": true,
+  "healthbar_colors": [
+    49,
+    176,
+    209
+  ],
+  "camera_position": [
+    90,
+    -110
+  ],
+  "sing_duration": 4,
+  "scale": 2
 }
