@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="F13-Logo.png">
+<SubTexture name="F13 Logo0000" x="0" y="0" width="859" height="904" frameX="-157" frameY="-128" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0001" x="0" y="0" width="859" height="904" frameX="-157" frameY="-128" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0002" x="0" y="904" width="714" height="752" frameX="-232" frameY="-207" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0003" x="0" y="904" width="714" height="752" frameX="-232" frameY="-207" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0004" x="1863" y="0" width="683" height="718" frameX="-248" frameY="-225" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0005" x="1863" y="0" width="683" height="718" frameX="-248" frameY="-225" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0006" x="1863" y="718" width="664" height="698" frameX="-258" frameY="-235" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0007" x="1863" y="718" width="664" height="698" frameX="-258" frameY="-235" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0008" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0009" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0010" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0011" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0012" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0013" x="797" y="1656" width="662" height="696" frameX="-259" frameY="-236" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0014" x="859" y="0" width="1004" height="878" frameX="-89" frameY="-131" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0015" x="859" y="0" width="1004" height="878" frameX="-89" frameY="-131" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0016" x="714" y="904" width="834" height="730" frameX="-175" frameY="-210" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0017" x="714" y="904" width="834" height="730" frameX="-175" frameY="-210" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0018" x="0" y="1656" width="797" height="698" frameX="-194" frameY="-227" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0019" x="0" y="1656" width="797" height="698" frameX="-194" frameY="-227" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0020" x="1459" y="1656" width="776" height="679" frameX="-205" frameY="-237" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0021" x="1459" y="1656" width="776" height="679" frameX="-205" frameY="-237" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0022" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0023" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0024" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0025" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0026" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+<SubTexture name="F13 Logo0027" x="2546" y="0" width="774" height="677" frameX="-206" frameY="-238" frameWidth="1199" frameHeight="1196" />
+</TextureAtlas>
